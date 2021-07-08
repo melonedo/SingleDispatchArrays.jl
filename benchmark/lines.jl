@@ -1,3 +1,4 @@
+# https://discourse.julialang.org/t/union-splitting-vs-c/61772/20
 module Lines
 
 using BenchmarkTools
